@@ -1,7 +1,7 @@
 {
   "name": "shake-the-carrot",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://ody9s5eus.github.io/shake-the-carrot",
   "scripts": {
     "serve": "vue-cli-service serve",
