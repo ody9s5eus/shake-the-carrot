@@ -17,7 +17,7 @@ import Carrot from './components/CarrotComponent.vue';
   align-items: flex-start;
   background: linear-gradient(135deg, #ff0099, #493240, #1e5799, #66ffcc);
   background-size: 400% 400%;
-  animation: gradientAnimation 10s ease infinite; /* Smooth transition */
+  animation: gradientAnimation 10s ease infinite;
 }
 
 @keyframes gradientAnimation {
